@@ -19,7 +19,7 @@
 * [Exercise 07: Binary Search Tree (Cryptography Adventure Game)](tarefa07)
   * Creates and employs a binary search tree with malloc to store coded messages and decode them.
 
-* [Exercise 08: Left-leaning Red-black Binary Search Tree ()](tarefa08)
+* [Exercise 08: Left-leaning Red-black Binary Search Tree (Number Sequence Game)](tarefa08)
   * Creates and employs a specific kind of binary search tree to store arbitrarily large integer sequences. Decides efficiently whether an integer sequence is "cool". An integer sequence S is cool if and only if ∀n∈S(n occurs n times in S). For example, if 3 occurs in the sequence, then it must occur exactly three times. Also decides efficiently how many integers must be removed from an uncool sequence in order to turn it into a cool one.
 
 * [Exercise 09: Heap (Uber Race System)](tarefa09)
