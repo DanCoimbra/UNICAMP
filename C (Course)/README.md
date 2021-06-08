@@ -32,4 +32,4 @@
   * Creates and employs a graph to efficiently deermine an optimal path for a player in a virtual scenario. The game very roughly simulates the smartphone game "Pokémon Go". The player wishes to traverse multiple PokéStops to reach a major battle, and the optimization task is to minimize the maximum ditance between two PokéStops, among all different possible paths in the graph.
 
 * [Exercise 12: Spreadsheet (Excel Simulator)](tarefa12)
-  * Simulares a spreadsheet that not only reads and writes tabular data, but also parses and resolves cross-reference formulae such as "=A0" and "=(A0 + B1) + C2". It also detects closed loops: if A0 says "=B0" and B0 says "=A0", a warning pops up.
+  * Simulates a spreadsheet that not only reads and writes tabular data, but also parses and resolves cross-reference formulae such as "=A0" and "=(A0 + B1) + C2". It also detects closed loops: if A0 says "=B0" and B0 says "=A0", a warning pops up.
