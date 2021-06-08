@@ -11,16 +11,16 @@
   * Uses backtracking recursion to find words in a word search puzzle.
 
 * [Exercise 05: Linked List (Arbitrarily Large Number Calculator)](tarefa05)
-  * Creates and employs linked lists with manual dynamic memory allocation to store arbitrarily large numbers. Implements summation, subtraction, multiplication, and division for these number / lists. No memory leaks.
+  * Creates and employs linked lists to store arbitrarily large numbers. Implements summation, subtraction, multiplication, and division for these numbers / lists. Memory has been dynamically allocated and there are no memory leaks. (The same can be said of all exercises below.)
 
 * [Exercise 06: Double-Ended Queue (Hospital Waiting Rooms)](tarefa06)
-  * Creates and employs double-ended queues to manage patients in a hospital containing multiple waiting lines, one for each ward / medical specialty. No memory leaks.
+  * Creates and employs double-ended queues with malloc to manage patients in a hospital containing multiple waiting lines, one for each ward / medical specialty.
 
 * [Exercise 07: Binary Search Tree (Cryptography Adventure Game)](tarefa07)
-  * Creates and employs a binary search tree to store coded messages and decode them. No memory leaks.
+  * Creates and employs a binary search tree with malloc to store coded messages and decode them.
 
 * [Exercise 08: Left-leaning Red-black Binary Search Tree ()](tarefa08)
-  * Creates and employs a specific kind of binary search tree to store arbitrarily large integer sequences. Decides efficiently whether an integer sequence is "cool". An integer sequence S is cool if and only if ∀n∈S(n occurs n times in S). Also decides efficiently how many integers must be removed from an uncool sequence in order to turn it into a cool one.
+  * Creates and employs a specific kind of binary search tree to store arbitrarily large integer sequences. Decides efficiently whether an integer sequence is "cool". An integer sequence S is cool if and only if ∀n∈S(n occurs n times in S). For example, if 3 occurs in the sequence, then it must occur exactly three times. Also decides efficiently how many integers must be removed from an uncool sequence in order to turn it into a cool one.
 
 * [Exercise 09: Heap (Uber Race System)](tarefa09)
   * Creates and employs a heap data structure to implement an Uber race system, where users can solicit and cancel races, while drivers can accept and finish races. Terminates by displaying the driver's costs and revenue.
