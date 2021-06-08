@@ -11,25 +11,25 @@
   * Uses backtracking recursion to find words in a word search puzzle.
 
 * [Exercise 05: Linked List (Arbitrarily Large Number Calculator)](tarefa05)
-  * Employs linked lists with manual dynamic memory allocation to store arbitrarily large numbers. Implements summation, subtraction, multiplication, and division for these number / lists.
+  * Creates and employs linked lists with manual dynamic memory allocation to store arbitrarily large numbers. Implements summation, subtraction, multiplication, and division for these number / lists. No memory leaks.
 
-* [Exercise 06: ](tarefa06)
-  * Imprime "bom dia" e "boa noite" na tela.
+* [Exercise 06: Double-Ended Queue (Hospital Waiting Rooms)](tarefa06)
+  * Creates and employs double-ended queues to manage patients in a hospital containing multiple waiting lines, one for each ward / medical specialty. No memory leaks.
 
-* [Exercise 07: ](tarefa07)
-  * Imprime "bom dia" e "boa noite" na tela.
+* [Exercise 07: Binary Search Tree (Cryptography Adventure Game)](tarefa07)
+  * Creates and employs a binary search tree to store coded messages and decode them. No memory leaks.
 
-* [Exercise 08: ](tarefa08)
-  * Imprime "bom dia" e "boa noite" na tela.
+* [Exercise 08: Left-leaning Red-black Binary Search Tree ()](tarefa08)
+  * Creates and employs a specific kind of binary search tree to store arbitrarily large integer sequences. Decides efficiently whether an integer sequence is "cool". An integer sequence S is cool if and only if ∀n∈S(n occurs n times in S). Also decides efficiently how many integers must be removed from an uncool sequence in order to turn it into a cool one.
 
-* [Exercise 09: ](tarefa09)
-  * Imprime "bom dia" e "boa noite" na tela.
+* [Exercise 09: Heap (Uber Race System)](tarefa09)
+  * Creates and employs a heap data structure to implement an Uber race system, where users can solicit and cancel races, while drivers can accept and finish races. Terminates by displaying the driver's costs and revenue.
 
-* [Exercise 10: ](tarefa10)
-  * Imprime "bom dia" e "boa noite" na tela.
+* [Exercise 10: Hash Map (Word-correction System)](tarefa10)
+  * Creates and employs a hash map to efficiently implement a word-correction system. Given a "correct word dictionary", it informs whether a given word is incorrect. Additionally, it informs whether a word is one typo away from a correct word: whether it has an extra character, a missing character, or two switched characters.
 
-* [Exercise 11: ](tarefa11)
-  * Imprime "bom dia" e "boa noite" na tela.
+* [Exercise 11: Graph (Optimal Path Calculation)](tarefa11)
+  * Creates and employs a graph to efficiently deermine an optimal path for a player in a virtual scenario. The game very roughly simulates the smartphone game "Pokémon Go". The player wishes to traverse multiple PokéStops to reach a major battle, and the optimization task is to minimize the maximum ditance between two PokéStops, among all different possible paths in the graph.
 
-* [Exercise 12: ](tarefa12)
-  * Imprime "bom dia" e "boa noite" na tela.
+* [Exercise 12: Spreadsheet (Excel Simulator)](tarefa12)
+  * Simulares a spreadsheet that not only reads and writes tabular data, but also parses and resolves cross-reference formulae such as "=A0" and "=(A0 + B1) + C2". It also detects closed loops: if A0 says "=B0" and B0 says "=A0", a warning pops up.
